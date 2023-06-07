@@ -16,5 +16,5 @@ studentLastName = "Newman"
 console.log(`${studentFirstName} ${studentLastName} has an average grade of ${average}.`) 
 //4. Write code that would answer this question: Did the student pass?
 const didStudentPass = (average >= passingGrade)
-console.log(didStudentPass)
+// console.log(didStudentPass)
 console.log(`Since ${studentFirstName}'s average is ${average}, the answer to the question "Did the student pass?" is ${didStudentPass}.`)
